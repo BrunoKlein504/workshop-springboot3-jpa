@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import com.kleinbruno.course.entities.User;
 import com.kleinbruno.course.repositories.UserRepository;
 
-@Service
+@Service //@Component
 public class UserService {
 
 	@Autowired
