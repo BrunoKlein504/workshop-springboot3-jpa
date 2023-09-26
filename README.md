@@ -7,7 +7,7 @@
 O projeto inclui _entidades de relacionamentos com UML_, a _instanciação de objetos_ e as _camadas lógicas_. Os tópicos abordados incluem configuração do Spring Boot, criação de entidades JPA, consultas de banco de dados, e muito mais.
 
 ## Domain model:
-![img1](https://github.com/BrunoKlein504/workshop-springboot3-jpa/blob/8315247cf1743da01d05d3505edb02433628987c/assets/domain_instance.png)
+![img1](https://github.com/BrunoKlein504/workshop-springboot3-jpa/blob/2e5324eb928d62fd94d99f2b6854e0a1d67c59f9/assets/domain_model.png)
 
 ## Domain Instance:
 ![img2](https://github.com/BrunoKlein504/workshop-springboot3-jpa/blob/8315247cf1743da01d05d3505edb02433628987c/assets/domain_instance.png)
