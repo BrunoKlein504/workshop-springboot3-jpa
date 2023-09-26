@@ -6,8 +6,6 @@
 
 O projeto inclui _entidades de relacionamentos com UML_, a _instanciação de objetos_ e as _camadas lógicas_. Os tópicos abordados incluem configuração do Spring Boot, criação de entidades JPA, consultas de banco de dados, e muito mais.
 
-Este repositório serve como um recurso valioso para desenvolvedores em busca de conhecimento prático e hands-on em Spring Boot e JPA. Você pode facilmente começar a explorar os conceitos e experimentar com o código de exemplo fornecido.
-
 ## Domain model:
 ![img1](https://github.com/BrunoKlein504/workshop-springboot3-jpa/blob/8315247cf1743da01d05d3505edb02433628987c/assets/domain_instance.png)
 
