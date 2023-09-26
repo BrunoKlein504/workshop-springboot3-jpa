@@ -1,5 +1,5 @@
 # Projeto web services com Spring Boot e JPA / Hibernate
-![BrunoKlein504](https://img.shields.io/github/license/BrunoKlein504/workshop-springboot3-jpa)
+[![BrunoKlein504](https://img.shields.io/github/license/BrunoKlein504/workshop-springboot3-jpa)](https://github.com/BrunoKlein504/workshop-springboot3-jpa/blob/fc5ef0290f7ff7c4af70a77ad53f7a8d3eca990e/LICENSE)
 
 # **Sobre o projeto** :
 é um repositório dedicado a um workshop interativo que explora os fundamentos do desenvolvimento de aplicativos com Spring Boot e o uso de Java Persistence API (JPA) para acessar e gerenciar dados em um ambiente de banco de dados relacional. Este workshop situa-se num contexto de um sistema simples de loja.
